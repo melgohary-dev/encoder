@@ -1,7 +1,7 @@
 # encoder
   Simple JavaScript encoder
   
-## [`See Live Here`](https://mohammedelgohary.github.io/encoder/)
+## [`See Live Here`](https://melgohary-dev.github.io/encoder/)
 
 ## Made with:
   * HTML5
